@@ -1,5 +1,4 @@
-<p  style="width:10em ; font-size:2em ;">Made with <img src="https://www.python.org/static/img/python-logo.png" style="width:6em ;"></p>
-
+Made with ![Python Logo](https://www.python.org/static/img/python-logo.png)
 
 Gelişmiş Hava Durumunu gösterir 
 - internetten bilgi aldığı için bazı antivirüsler Trojan olarak gösterebilir
